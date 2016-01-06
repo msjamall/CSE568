@@ -1,1 +1,1 @@
-# CSE568
+# CSE568 - Introduction to Data Science
